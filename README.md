@@ -41,5 +41,7 @@ Ou acesse o projeto diretamente no Wokwi:
 --- 
 ![Captura de Tela 2025-05-27 às 00 04 35](https://github.com/user-attachments/assets/c5b9f6f4-4aff-4419-af3f-e9c998eade5c)
 
+### Video
+https://youtu.be/k8m6b3PUh4w![image](https://github.com/user-attachments/assets/a45bf737-f2e0-4d74-80f2-dde68d5527bf)
 
 ### Fluxograma do Funcionamento
